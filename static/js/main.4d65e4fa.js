@@ -11710,7 +11710,7 @@
                         children: [
                           "Solana Meme's continues to run, but unfortunately has left a lot of nerds behind .  ",
                           (0, Ut.jsx)("a", {
-                            href: "https://knowyourmeme.com/memes/monkas",
+                            href: "#",
                             title: "Origin on MonkaS",
                             rel: "noreferrer",
                             target: "_blank",
@@ -11899,10 +11899,10 @@
                   (0, Ut.jsx)("a", {
                     href: "#",
                     className: "btn small primary",
-                    title: "Get MonkaS",
+                    title: "Take Oath",
                     rel: "noreferrer",
                     target: "_blank",
-                    children: "Get MonkaS",
+                    children: "Take Oath",
                   }),
                 ],
               }),
