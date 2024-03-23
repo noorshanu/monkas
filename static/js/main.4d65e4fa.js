@@ -12149,7 +12149,24 @@
                     }),
                   }),
                 ],
+                
               }),
+              
+           
+            }),
+            (0, Ut.jsxs)("div", {
+              className: "flex  justify-center",
+              children: [
+                (0, Ut.jsx)("a", {
+                  href: "https://drive.google.com/file/d/1tY45KVH5RslP9Q7oLgB-tLREaPuARJs6/view?usp=share_link",
+                  className: "btn primary",
+                  title: "Take oath",
+                  rel: "noreferrer",
+                  target: "_blank",
+                  children: "Get MonkaS",
+                }),
+               
+              ],
             }),
             (0, Ut.jsx)(Ht, {}),
           ];

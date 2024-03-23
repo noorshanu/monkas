@@ -1404,3 +1404,9 @@ body {
   }
 }
 /*# sourceMappingURL=main.5f660ff9.css.map*/
+.justify-center{
+  display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+
+}
