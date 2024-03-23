@@ -11835,7 +11835,7 @@
                   (0, Ut.jsx)("li", {
                     className: "hide",
                     children: (0, Ut.jsx)("a", {
-                      href: "https://t.me/MonkaSerc",
+                      href: "#",
                       title: "MonkaS Telegram",
                       rel: "noreferrer",
                       target: "_blank",
@@ -11845,7 +11845,7 @@
                   (0, Ut.jsx)("li", {
                     className: "hide",
                     children: (0, Ut.jsx)("a", {
-                      href: "https://twitter.com/monkaScoin",
+                      href: "#",
                       title: "MonkaS Twitter",
                       rel: "noreferrer",
                       target: "_blank",
@@ -11880,7 +11880,7 @@
                       }),
                       (0, Ut.jsx)("a", {
                         className: "circle",
-                        href: "https://twitter.com/monkaScoin",
+                        href: "#",
                         rel: "noreferrer",
                         title: "MonkaS Twitter",
                         target: "_blank",
@@ -11888,7 +11888,7 @@
                       }),
                       (0, Ut.jsx)("a", {
                         className: "circle",
-                        href: "https://t.me/MonkaSerc",
+                        href: "#",
                         rel: "noreferrer",
                         title: "MonkaS Telegram",
                         target: "_blank",
@@ -11972,7 +11972,7 @@
                 }),
                 (0, Ut.jsx)("link", {
                   rel: "canonical",
-                  href: "https://monkas.info/",
+                  href: "#",
                 }),
               ],
             }),
