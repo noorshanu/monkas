@@ -1410,3 +1410,7 @@ body {
     margin-bottom: 8px;
 
 }
+
+.italic{
+  font-style: italic;
+}

@@ -11703,7 +11703,7 @@
                 className: "cell-12 align-center text-center",
                 children: [
                   (0, Ut.jsxs)("div", {
-                    className: "cnt cnt-txt",
+                    className: "cnt cnt-txt italic",
                     children: [
                       (0, Ut.jsx)("h1", { children: "MonkaS" }),
                       (0, Ut.jsxs)("p", {
@@ -11719,7 +11719,7 @@
                           " to rescue you with those wife changing gains you missed  on $myro, $wif, $bome, $slerf .",
                           (0, Ut.jsx)("br", {}),
                           (0, Ut.jsx)("strong", {
-                            className: "highlight",
+                            className: "highlight italic",
                             children: "The memecoin for a 2nd chance!",
                           }),
                         ],
