@@ -70,25 +70,33 @@
       rel="stylesheet"
     />
   </head>
-  <body>
-    <audio controls autoplay loop id="audioPlayer">
-        <source src="/static/song.mp3" type="audio/mp3">
-        <source src="/static/song.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
+  <body onclick="resumeAudio()">
+    <audio  autoplay loop id="audioPlayer">
+      <source src="/static/song.mp3" type="audio/mp3">
+      <source src="/static/song.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <main id="root">
      
     </main>
     <script>
-    // JavaScript to force autoplay
-    document.addEventListener('DOMContentLoaded', function() {
-      var audioPlayer = document.getElementById('audioPlayer');
-      if (audioPlayer) {
-        audioPlayer.play();
+      // JavaScript to force autoplay
+      document.addEventListener('DOMContentLoaded', function() {
+        var audioPlayer = document.getElementById('audioPlayer');
+        if (audioPlayer) {
+          audioPlayer.play();
+        }
+      });
+  
+      // Function to resume audio when body is clicked
+      function resumeAudio() {
+        var audioPlayer = document.getElementById('audioPlayer');
+        if (audioPlayer) {
+          audioPlayer.play();
+        }
       }
-    });
-  </script>
+    </script>
   </body>
   <!-- Mirrored from www.monkas.info/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 23 Mar 2024 12:57:34 GMT -->
 </html>
