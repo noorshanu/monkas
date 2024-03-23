@@ -11710,7 +11710,7 @@
                         children: [
                           "Solana Meme's continues to run, but unfortunately has left a lot of nerds behind .  ",
                           (0, Ut.jsx)("a", {
-                            href: "#",
+                            href: "https://knowyourmeme.com/memes/monkas",
                             title: "Origin on MonkaS",
                             rel: "noreferrer",
                             target: "_blank",
@@ -11835,7 +11835,7 @@
                   (0, Ut.jsx)("li", {
                     className: "hide",
                     children: (0, Ut.jsx)("a", {
-                      href: "#",
+                      href: "https://t.me/monkasportal",
                       title: "MonkaS Telegram",
                       rel: "noreferrer",
                       target: "_blank",
@@ -11845,7 +11845,7 @@
                   (0, Ut.jsx)("li", {
                     className: "hide",
                     children: (0, Ut.jsx)("a", {
-                      href: "#",
+                      href: "https://x.com/monkascoin",
                       title: "MonkaS Twitter",
                       rel: "noreferrer",
                       target: "_blank",
@@ -11880,7 +11880,7 @@
                       }),
                       (0, Ut.jsx)("a", {
                         className: "circle",
-                        href: "#",
+                        href: "https://x.com/monkascoin",
                         rel: "noreferrer",
                         title: "MonkaS Twitter",
                         target: "_blank",
@@ -11888,7 +11888,7 @@
                       }),
                       (0, Ut.jsx)("a", {
                         className: "circle",
-                        href: "#",
+                        href: "https://t.me/monkasportal",
                         rel: "noreferrer",
                         title: "MonkaS Telegram",
                         target: "_blank",
@@ -12079,7 +12079,7 @@
                           title: "locked",
                           target: "_blank",
                           rel: "noreferrer",
-                          children: "liquidity worries",
+                          children: "",
                         }),
                         "\xa0\xa0\xa0\u2022\xa0\xa0\xa0All aboard\xa0\xa0\xa0\u2022\xa0\xa0\xa0 LIQUIDITY BURNED\xa0\xa0\xa0\u2022\xa0\xa0\xa0MINT REVOKED ",
                         (0, Ut.jsx)("a", {
@@ -12087,7 +12087,7 @@
                           title: "locked",
                           target: "_blank",
                           rel: "noreferrer",
-                          children: "liquidity worries",
+                          children: "",
                         }),
                         "\xa0\xa0\xa0\u2022\xa0\xa0\xa0All aboard\xa0\xa0\xa0\u2022\xa0\xa0\xa0TOP KOLS ON BOARD\xa0\xa0\xa0\u2022\xa0\xa0\xa0MOST USED MEME ",
                         (0, Ut.jsx)("a", {
@@ -12095,7 +12095,7 @@
                           title: "locked",
                           target: "_blank",
                           rel: "noreferrer",
-                          children: "liquidity worries",
+                          children: "",
                         }),
                         "\xa0\xa0\xa0\u2022\xa0\xa0\xa0All aboard\xa0\xa0\xa0\u2022\xa0\xa0\xa0TOP KOLS ON BOARD \xa0\xa0\xa0\u2022\xa0\xa0\xa0TRENDING EVERYWHERE ",
                         (0, Ut.jsx)("a", {
@@ -12103,7 +12103,7 @@
                           title: "locked",
                           target: "_blank",
                           rel: "noreferrer",
-                          children: "liquidity worries",
+                          children: "",
                         }),
                       ],
                     }),
@@ -12119,7 +12119,7 @@
                           title: "locked",
                           target: "_blank",
                           rel: "noreferrer",
-                          children: "liquidity worries",
+                          children: "",
                         }),
                         "\xa0\xa0\xa0\u2022\xa0\xa0\xa0All aboard\xa0\xa0\xa0\u2022\xa0\xa0\xa0BUYBACKS & BURNS\xa0\xa0\xa0\u2022\xa0\xa0\xa0TOP KOLS ON BOARD  ",
                         (0, Ut.jsx)("a", {
@@ -12127,7 +12127,7 @@
                           title: "locked",
                           target: "_blank",
                           rel: "noreferrer",
-                          children: "liquidity worries",
+                          children: "",
                         }),
                         "\xa0\xa0\xa0\u2022\xa0\xa0\xa0All aboard\xa0\xa0\xa0\u2022\xa0\xa0\xa0TRENDING EVERYWHERE\xa0\xa0\xa0\u2022\xa0\xa0\xa0 MOST USED MEME ",
                         (0, Ut.jsx)("a", {
@@ -12135,7 +12135,7 @@
                           title: "locked",
                           target: "_blank",
                           rel: "noreferrer",
-                          children: "liquidity worries",
+                          children: "",
                         }),
                         "\xa0\xa0\xa0\u2022\xa0\xa0\xa0All aboard\xa0\xa0\xa0\u2022\xa0\xa0\xa0LIQUIDITY BURNED\xa0\xa0\xa0\u2022\xa0\xa0\xa0MINT REVOKED ",
                         (0, Ut.jsx)("a", {
@@ -12143,7 +12143,7 @@
                           title: "locked",
                           target: "_blank",
                           rel: "noreferrer",
-                          children: "liquidity worries",
+                          children: "",
                         }),
                       ],
                     }),
