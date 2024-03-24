@@ -1414,3 +1414,19 @@ body {
 .italic{
   font-style: italic;
 }
+
+.twt{
+  display: none;
+}
+
+@media (max-width:768px) {
+  .twt{
+    display: flex;
+
+      margin: 8px;
+    
+  }
+  .quicklinks{
+    margin-left: 6rem;
+  }
+}

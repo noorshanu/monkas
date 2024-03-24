@@ -11897,7 +11897,7 @@
                     ],
                   }),
                   (0, Ut.jsx)("a", {
-                    className: "circle",
+                    className: "circle twt",
                     href: "https://x.com/monkascoin",
                     rel: "noreferrer",
                     title: "MonkaS Twitter",
@@ -11905,7 +11905,7 @@
                     children: (0, Ut.jsx)("i", { "data-ico": "tw" }),
                   }),
                   (0, Ut.jsx)("a", {
-                    className: "circle",
+                    className: "circle twt",
                     href: "https://t.me/monkasportal",
                     rel: "noreferrer",
                     title: "MonkaS Telegram",
